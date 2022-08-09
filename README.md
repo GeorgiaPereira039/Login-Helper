@@ -8,4 +8,6 @@ Por fim, faremos um **Star-Front** onde usaremos uma API utilizando o javascript
 
 Optaremos pelo uso do [Google fonts](https://fonts.google.com/), e vamos usar a tag link da **font Poppins regular 400 e semibold 600**, e ao decorrer vamos formatando.
 
-Vamos usar também o [Font Awesome]([Font Awesome](https://fontawesome.com/)), onde dentro será possível importarmos os ícones.
+Vamos usar também o [Font Awesome](https://fontawesome.com/)), onde dentro será possível importarmos os ícones.
+
+Conclui mais uma etapa de muitos desafios que vira. Pagina de login feita com sucesso.
