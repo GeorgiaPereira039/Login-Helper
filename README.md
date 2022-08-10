@@ -1,4 +1,4 @@
-#### 📚 *Bem vindo ao meu primeiro curso junto a Udemy* 📚
+#### 📚 *Primeiro curso junto a Udemy* 📚
 
 
 
@@ -22,11 +22,16 @@ ________________________________________________________________________________
 
 2 - Seguindo de um **GuessNumber** que trata de um mini-game onde tentamos adivinhar o número que a máquina está "pensando".Nível de projeto: Intermediário.
 
+✔ Mini-game concluido com sucesso.
+
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 3 - Por fim, faremos um **Star-Front** onde usaremos uma API utilizando o javascript apenas, com objetivo de mostrar dados ao usuário. Nível de projeto: Avançado.
+
+Finalemente chego ao fim do terceiro projeto com muito exito. Explorei todas as opções que pude nos 3 projetos, tive mais entendimento e conhecimento na prática me levando também a por em prática o meu uso no GitHub. 
+Ansiosa para os proximos desafios!
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
